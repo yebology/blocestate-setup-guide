@@ -16,7 +16,7 @@
 1. Open your Visual Studio Code
 2. Run on terminal this script
    ```
-   git clone https://github.com/yebology/blocestate-dapp.git
+   git clone https://github.com/LouisFernando1204/blocestate-dapp.git
    ```
 3. Go to this directory on your terminal
    ```
