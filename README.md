@@ -12,7 +12,7 @@
 - Git : [Install Here](https://git-scm.com/downloads)
 - Github : [Create Account Here](https://github.com/)
 
-## 📝 Guide to Run Book-Verse
+## 📝 Guide to Run BlocEstate
 1. Open your Visual Studio Code
 2. Run on terminal this script
    ```
