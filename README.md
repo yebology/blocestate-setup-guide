@@ -31,4 +31,4 @@
    npm run dev
    ```
 6. Click your local url (usually it's https://localhost:5173)
-7. Enjoy use our platform!
+7. Enjoy use our platform! ❤️
